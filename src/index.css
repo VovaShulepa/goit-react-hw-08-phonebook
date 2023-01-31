@@ -1,15 +1,11 @@
-@import-normalize; /* bring in normalize.css styles */
+@import-normalize;
+/* bring in normalize.css styles */
 
 #root {
   display: flex;
   flex-direction: column;
   min-height: 100vh;
-  background: linear-gradient(
-    180deg,
-    rgb(238, 254, 183) 19.1%,
-    rgb(169, 254, 222) 53.9%,
-    rgb(90, 222, 255) 92%
-  );
+  background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
 }
 
 body {
