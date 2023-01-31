@@ -1,0 +1,16 @@
+.filterName {
+  display: flex;
+  flex-direction: column;
+  margin: 0.5rem auto 1rem;
+  align-items: center;
+  font-size: large;
+  text-align: left;
+  padding: 0.5rem 15rem 0.5rem 1rem;
+  box-shadow: inset 0px 0px 8px 4px rgb(0 0 0 / 30%);
+}
+
+.contactTitle {
+  text-shadow: 12px 8px 15px rgb(7 9 126 / 50%);
+  color: #010111;
+  text-align: center;
+}
