@@ -15,7 +15,7 @@
 .btnLogin {
   margin-top: 1rem;
   margin-bottom: 1rem;
-  background-color: rgba(244, 122, 0, 0.8);
+  background-color: rgb(0, 176, 182);
   border: none;
   border-radius: 6px;
   color: #fff;
@@ -32,6 +32,6 @@
 }
 
 .btnLogin:hover {
-  background-color: rgb(4, 177, 234);
+  background-color: rgb(229 38 223 / 95%);
   cursor: pointer;
 }

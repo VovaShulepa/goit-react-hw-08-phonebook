@@ -1,6 +1,6 @@
 import React from 'react';
 import { NavLink } from 'react-router-dom';
-import { FaRegAddressBook } from 'react-icons/fa';
+import { MdContactPhone } from 'react-icons/md';
 import { useAuth } from 'hooks/useAuth';
 import css from './Home.module.css';
 
@@ -12,7 +12,7 @@ export default function Home() {
     <div className={css.container}>
       <span className={css.span}>Welcome to service:</span>
       <h1 className={css.title}>Your PhoneBook</h1>
-      <FaRegAddressBook size={200} className={css.icon} />
+      <MdContactPhone size={200} className={css.icon} />
       {!isLoggedIn && (
         <p className={css.paragraph}>
           Please register or login to start using the application:

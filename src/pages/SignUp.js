@@ -7,7 +7,7 @@ const styles = {
     alignItems: 'center',
     justifyContent: 'center',
     background:
-      'linear-gradient(180deg, rgb(238, 254, 183) 19.1%, rgb(169, 254, 222) 53.9%, rgb(90, 222, 255) 92%)',
+      'linear-gradient(-45deg, #b5fa65d5, #a8c430b0, #47c5f3be, #15fdc7e1)',
   },
 };
 export default function SignUp() {

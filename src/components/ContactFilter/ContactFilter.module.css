@@ -7,6 +7,7 @@
   text-align: left;
   padding: 0.5rem 15rem 0.5rem 1rem;
   box-shadow: inset 0px 0px 8px 4px rgb(0 0 0 / 30%);
+  border-radius: 20px;
 }
 
 .contactTitle {

@@ -6,7 +6,7 @@ import styled from 'styled-components';
 const StyledLink = styled(NavLink)`
   color: black;
   &.active {
-    color: rgba(244, 122, 0, 0.8);
+    color: rgb(0, 176, 182);
   }
 `;
 
